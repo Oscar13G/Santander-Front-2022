@@ -9,8 +9,24 @@ p {
     color: #8b8b8bcc;
     font-size: 15px;
     font-family: Verdana;
+    text-align: center;
+}
+main{
+    text-align: center;
 }
 button {
     color: #fff;
     background-color: #025157;
+}
+.capterra{
+    text-align: center;
+}
+.capterra > img{
+    width: 15%;
+}
+.intro{
+    text-align: center;
+}
+.intro > img{
+    width: 75%;
 }
